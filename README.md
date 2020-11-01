@@ -1,4 +1,4 @@
-### I'm Vashishth Gajjar, a sophomore in VIT Vellore!
+### Hi there, I'm Vashishth Gajjar, a sophomore in VIT Vellore! 👋
 
 [![Portfolio]()](https://grand-27-master.github.io/Portfolio/)
 
