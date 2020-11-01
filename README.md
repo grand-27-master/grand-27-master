@@ -73,4 +73,6 @@
 
 ---
 
- 
+ [website]: https://grand-27-master.github.io/Portfolio/
+[instagram]: https://www.instagram.com/knowledge_bot/
+[linkedin]: https://www.linkedin.com/in/vk-gajjar-a798b2195/
