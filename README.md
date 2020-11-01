@@ -74,12 +74,4 @@
 
 ---
 
- ### ⭐️ From [grand-27-master](https://github.com/Bgstatic) ### 
  
----
-
-
-[website]: https://grand-27-master.github.io/Portfolio/
-[instagram]: https://www.instagram.com/bilgehangecici
-[linkedin]: https://www.linkedin.com/in/vk-gajjar-a798b2195/
-
