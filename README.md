@@ -74,12 +74,12 @@
 
 ---
 
- ### ⭐️ From [Bgstatic](https://github.com/Bgstatic) ### 
+ ### ⭐️ From [grand-27-master](https://github.com/Bgstatic) ### 
  
 ---
 
 
-[website]: http://bilgehangecici.site/
+[website]: https://grand-27-master.github.io/Portfolio/
 [instagram]: https://www.instagram.com/bilgehangecici
-[linkedin]: https://www.linkedin.com/in/bilgehan-geçici-8b368614a/
+[linkedin]: https://www.linkedin.com/in/vk-gajjar-a798b2195/
 
