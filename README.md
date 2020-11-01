@@ -1,4 +1,4 @@
-# Hi there, I'm Bilgehan 
+# Hi there, I'm Vashishth Gajjar 👋 
 ## I'm a Computer Science and Engineering Student  
 
 - 👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
