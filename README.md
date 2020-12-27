@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers and designers
 - 🥅 2021 Goals: Contribute more to development through internships
-- ⚡ Fun fact: I love to dance and play chess! <br>
+- ⚡ Fun fact: I love to dance and play chess! 
 ---
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
