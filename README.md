@@ -70,7 +70,7 @@
 </div
   
   <br><br>
-  <p align="center"><img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" alt="laptop" height="300" width="500"></p>
+  <p align="center"><img src="https://gph.is/g/4o6B0Km" alt="laptop" height="300" width="500"></p>
 <br/>
 
 ---
