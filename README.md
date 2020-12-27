@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers and designers
-- 🥅 2020 Goals: Contribute more to machine learning projects
+- 🥅 2021 Goals: Contribute more to development through internships
 - ⚡ Fun fact: I love to dance and play chess!
 ---
 
@@ -17,7 +17,7 @@
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
-### Contact with me 📝
+### Connnect with me 📝
 
 
 [<img align="left" alt="bilgehangecici.site" width="40px" src="https://i.pinimg.com/originals/1d/46/dd/1d46dda5b99cf1a91a1e2377fb948b36.gif" />][website]
