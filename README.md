@@ -64,9 +64,9 @@
      <a href="">
       <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=grand-27-master&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&line_height=40" />
     </a>
-    <a href="">
+<!--     <a href="">
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grand-27-master&theme=midnight-purple&line_height=40&hide=css"/>
-    </a>
+    </a> -->
 </div
   
   <br><br>
