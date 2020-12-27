@@ -1,9 +1,3 @@
-<img src="https://github.com/Vashishth/Vashishth/blob/master/svg.svg"/>
-
-
-<p><em>A sophomore at <a href="https://hogent.be">VIT Vellore University College</a>, majoring in Computer Science. 😊</br>
-</em></p>
-
 
 
 
