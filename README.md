@@ -70,7 +70,7 @@
 </div
   
   <br><br>
-  <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
+  <p align="center"><img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" alt="laptop" height="300" width="500"></p>
 <br/>
 
 ---
