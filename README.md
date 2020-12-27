@@ -66,6 +66,8 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grand-27-master&theme=midnight-purple&line_height=40&hide=css"/>
     </a>
 </div
+  
+  <br><br>
   <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 <br/>
 
