@@ -1,10 +1,8 @@
 
-
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
 
 # Hi there, I'm Vashishth Gajjar 👋 
-## I'm a Computer Science and Engineering Student  <br><br>
-
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+## I'm a Computer Science and Engineering Student 
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other developers and designers
