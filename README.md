@@ -54,7 +54,7 @@
 
 <br/>
 <h4 align="center">Top langs :tongue:</h4>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhellO&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grand-27-master&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
   <h2 align="center"> Github Statistics 📈 </h2>
   
@@ -66,7 +66,7 @@
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grand-27-master&theme=midnight-purple&line_height=40&hide=css"/>
     </a>
 </div
-  
+  <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 <br/>
 
 ---
