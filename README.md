@@ -57,8 +57,7 @@
 <br/>
 
 ## 🔥 Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=grand-27-master&theme=algolia" alt="grand-27-master"/></p>
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=grand-27-master&theme=soft-green&hide_border=true)](https://git.io/streak-stats)
   <h2 align="center"> Github Statistics 📈 </h2>
   
   <div align="center"> 
