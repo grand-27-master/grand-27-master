@@ -85,5 +85,5 @@
 
   
 <div align="center"> 
-<img src="https://media.giphy.com/media/QEIC6GZIEGStO/giphy.gif" width="20%">
+<img src="https://media.giphy.com/media/QEIC6GZIEGStO/giphy.gif">
 </div>  
