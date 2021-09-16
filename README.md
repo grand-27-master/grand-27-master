@@ -84,4 +84,6 @@
 [linkedin]: https://www.linkedin.com/in/vashishth-gajjar-a798b2195/
 
   
+<div align="center"> 
 <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+</div>  
