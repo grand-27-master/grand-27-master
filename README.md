@@ -55,11 +55,12 @@
 ---
 
 <br/>
-
-## 🔥 Streak Stats
 <div align="center">
+## 🔥 Streak Stats
+
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=grand-27-master&theme=soft-green&hide_border=true)](https://git.io/streak-stats)
-  <h2 align="center"> Github Statistics 📈 </h2></div>
+  <h2 align="center"> Github Statistics 📈 </h2>
+  </div>
   
   <div align="center"> 
      <a href="">
