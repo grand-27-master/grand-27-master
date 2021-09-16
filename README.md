@@ -55,8 +55,9 @@
 ---
 
 <br/>
-<h4 align="center">Top langs :tongue:</h4>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=grand-27-master&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+
+## 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=grand-27-master&theme=algolia" alt="grand-27-master"/></p>
 
   <h2 align="center"> Github Statistics 📈 </h2>
   
@@ -64,9 +65,7 @@
      <a href="">
       <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=grand-27-master&show_icons=true&include_all_commits=true&count_private=true&theme=midnight-purple&line_height=40" />
     </a>
-<!--     <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grand-27-master&theme=midnight-purple&line_height=40&hide=css"/>
-    </a> -->
+
 </div
   
   <br><br>
