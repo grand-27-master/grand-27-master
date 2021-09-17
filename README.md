@@ -61,7 +61,7 @@
   <h2 align="center"> Github Statistics 📈 </h2>
   </div>
   
-  [![Vashishth's github activity graph](https://activity-graph.herokuapp.com/graph?username=grand-27-master&theme=react-dark)](https://github.com/grand-27-master/github-readme-activity-graph)
+ 
 
   
   
@@ -76,6 +76,8 @@
   <br/>
  
 
+   [![Vashishth's github activity graph](https://activity-graph.herokuapp.com/graph?username=grand-27-master&theme=react-dark)](https://github.com/grand-27-master/github-readme-activity-graph)
+  
 
 ---
 
