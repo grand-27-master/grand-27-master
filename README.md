@@ -88,6 +88,10 @@
 [linkedin]: https://www.linkedin.com/in/vashishth-gajjar-a798b2195/
 
   
+  ## Device
+  <a href="https://img.shields.io/badge/Lenovo-Ideapad%2020GB-blue"></a>
+  
+  
 <div align="center"> 
 <img src="https://media.giphy.com/media/QEIC6GZIEGStO/giphy.gif">
 </div>  
