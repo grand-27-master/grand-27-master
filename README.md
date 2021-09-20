@@ -88,7 +88,7 @@
 [linkedin]: https://www.linkedin.com/in/vashishth-gajjar-a798b2195/
 
   
-![image]({https://img.shields.io/badge/lenovo-laptop-E2231A?style=for-the-badge&logo=acer&logoColor=white})
+![Lenovo]({https://img.shields.io/badge/lenovo-laptop-E2231A?style=for-the-badge&logo=acer&logoColor=white})
   
 <div align="center"> 
 <img src="https://media.giphy.com/media/QEIC6GZIEGStO/giphy.gif">
