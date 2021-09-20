@@ -89,7 +89,7 @@
 
   
   ## Device
-https://img.shields.io/badge/lenovo-laptop-E2231A?style=for-the-badge&logo=acer&logoColor=white
+<img src="{https://img.shields.io/badge/lenovo-laptop-E2231A?style=for-the-badge&logo=acer&logoColor=white}"/>
   
 <div align="center"> 
 <img src="https://media.giphy.com/media/QEIC6GZIEGStO/giphy.gif">
