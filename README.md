@@ -87,7 +87,7 @@
 [instagram]: https://www.instagram.com/knowledge_bot/
 [linkedin]: https://www.linkedin.com/in/vashishth-gajjar-a798b2195/
 
-<img src="https://img.shields.io/badge/lenovo-laptop-E2231A?style=for-the-badge&logo=acer&logoColor=white"></img>
+<img src="https://img.shields.io/badge/Lenovo-Ideapad 20GB-E2231A?style=for-the-badge&logo=lenovo&logoColor=white"></img>
   
 <div align="center"> 
 <img src="https://media.giphy.com/media/QEIC6GZIEGStO/giphy.gif">
