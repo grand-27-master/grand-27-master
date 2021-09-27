@@ -87,7 +87,8 @@
 [instagram]: https://www.instagram.com/knowledge_bot/
 [linkedin]: https://www.linkedin.com/in/vashishth-gajjar-a798b2195/
 
-  
+  ## 🏆 Github Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=grand-27-master)](https://github-profile-trophy.vercel.app/?username=grand-27-master)
  
 ## Device 
 <img src="https://img.shields.io/badge/Lenovo-Ideapad 20GB-E2231A?style=for-the-badge&logo=lenovo&logoColor=white"></img> <br><br>
