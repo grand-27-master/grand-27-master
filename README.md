@@ -87,7 +87,7 @@
 [instagram]: https://www.instagram.com/knowledge_bot/
 [linkedin]: https://www.linkedin.com/in/vashishth-gajjar-a798b2195/
 
-  ## 🏆 Github Trophy
+  ## 🏆 Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=grand-27-master)](https://github-profile-trophy.vercel.app/?username=grand-27-master)
  
 ## Device 
