@@ -3,10 +3,10 @@
 # Hi there, I'm Vashishth Gajjar 👋🏻 
 ## I'm a Computer Science and Engineering Student 
 
-- 🌱 I’m currently mastering problem solving
-- 👯 I’m looking to collaborate with other developers and designers
-- 🥅 2021 Goals: Contribute more to development through internships
-- ⚡ Fun fact: I love to work-out and play chess! 
+- 🌱 I’m currently making my hands dirty on <b> Problem Solving </b>
+- 👯 I’m looking to collaborate with other **Developers** 
+- 🥅 2021 Goals: Contribute more to **Development through Internships**
+- ⚡ Fun fact: I love to **Work-out and play Chess! **
 ---
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
