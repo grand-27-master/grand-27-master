@@ -6,7 +6,7 @@
 - 🌱 I’m currently making my hands dirty on <b> Problem Solving </b>
 - 👯 I’m looking to collaborate with other **Developers** 
 - 🥅 2021 Goals: Contribute more to **Development through Internships**
-- ⚡ Fun fact: I love to **Work-out and play Chess! **
+- ⚡ Fun fact: I love to **Work-out and play Chess!**
 ---
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
