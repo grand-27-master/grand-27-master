@@ -1,4 +1,4 @@
-<img align="right" height=230px src="https://media.giphy.com/media/SwImQhtiNA7io/giphy.gif">
+<img align="right" height=260px src="https://media.giphy.com/media/SwImQhtiNA7io/giphy.gif">
 
 # Hi there, I'm Vashishth Gajjar 👋🏻 
 ## I'm a Computer Science and Engineering Student 
