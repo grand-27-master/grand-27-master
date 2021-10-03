@@ -1,4 +1,4 @@
-<div class="tenor-gif-embed" data-postid="22541135" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/comedy-doge-dogecoin-dogememe-binance-gif-22541135">Comedy Doge GIF</a>from <a href="https://tenor.com/search/comedy-gifs">Comedy GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div style="width:100%;height:0;padding-bottom:62%;position:relative;"><iframe src="https://giphy.com/embed/SwImQhtiNA7io" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/dogs-look-ridiculous-SwImQhtiNA7io">via GIPHY</a></p>
 
 # Hi there, I'm Vashishth Gajjar 👋🏻 
 ## I'm a Computer Science and Engineering Student 
