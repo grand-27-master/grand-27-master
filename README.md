@@ -3,7 +3,7 @@
 # Hi there, I'm Vashishth Gajjar 👋🏻 
 ## I'm a Computer Science and Engineering Student 
 
-- 🌱 I’m currently making my hands dirty on <b> Problem Solving </b>
+- 🌱 I’m currently engaged in <b> Problem Solving </b>
 - 👯 I’m looking to collaborate with other **Developers** 
 - 🥅 2021 Goals: Contribute more to **Development through Internships**
 - ⚡ Fun fact: I love to **Work-out and play Chess!**
