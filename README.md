@@ -88,7 +88,7 @@
   
  <a href="https://github.com/grand-27-master/github-readme-activity-graph"><img alt="Vashishth Gajjar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=grand-27-master&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
   
-  ## Productivity Stats📈:
+  # Productivity Stats📈:
 <table>
   <tr>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=grand-27-master&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
