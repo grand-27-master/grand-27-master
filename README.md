@@ -11,7 +11,7 @@
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
-### Spotify Playing 🎧
+## Spotify Playing 🎧
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
 
@@ -19,7 +19,7 @@
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
 
-### Connnect with me 📝
+## Connnect with me 📝
 
 
 [<img align="left" alt="bilgehangecici.site" width="40px" src="https://i.pinimg.com/originals/1d/46/dd/1d46dda5b99cf1a91a1e2377fb948b36.gif" />][website]
@@ -30,7 +30,7 @@
 
 ---
 
-### Languages and Tools 🛠 
+## Languages and Tools 🛠 
 
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
 ![C++](http://img.shields.io/badge/-C++-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
@@ -82,7 +82,7 @@
 [instagram]: https://www.instagram.com/knowledge_bot/
 [linkedin]: https://www.linkedin.com/in/vashishth-gajjar-a798b2195/
 
-  ## 🏆 Trophies
+  # 🏆 Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=grand-27-master)](https://github-profile-trophy.vercel.app/?username=grand-27-master)
  
   
@@ -97,7 +97,7 @@
 
   
   
-## Device 
+# Device 
 <img src="https://img.shields.io/badge/Lenovo-Ideapad 20GB-E2231A?style=for-the-badge&logo=lenovo&logoColor=white"></img> <br><br>
   
 <div align="center"> 
