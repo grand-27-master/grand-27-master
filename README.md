@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently engaged in <b> Problem Solving </b>
 - 👯 I’m looking to collaborate with other **Developers** 
-- 🥅 2021 Goals: Contribute more to **Development through Internships**
+- 🥅 2022 Goals: Strengthen **Problem solving**
 - ⚡ Fun fact: I love to **Work-out and play Chess!**
 ---
 
