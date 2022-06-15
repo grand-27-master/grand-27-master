@@ -22,9 +22,9 @@
 ## Connnect with me 📝
 
 
-[<img align="left" alt="bilgehangecici.site" width="40px" src="https://i.pinimg.com/originals/1d/46/dd/1d46dda5b99cf1a91a1e2377fb948b36.gif" />][website]
-[<img align="left" alt="bilgehangecici | LinkedIn" width="35px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />][linkedin]
-[<img align="left" alt="bilgehangecici | Instagram" width="40px" src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" />][instagram]
+[<img align="left" alt="bilgehangecici.site" width="10px" src="https://i.pinimg.com/originals/1d/46/dd/1d46dda5b99cf1a91a1e2377fb948b36.gif" />][website]
+[<img align="left" alt="bilgehangecici | LinkedIn" width="15px" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" />][linkedin]
+[<img align="left" alt="bilgehangecici | Instagram" width="10px" src="https://thumbs.gfycat.com/OrnateOrneryFoal-max-1mb.gif" />][instagram]
 
 <br />
 
@@ -77,11 +77,11 @@
   
 
 ---
-<!-- 
+
  [website]: https://grand-27-master.github.io/Hexagonal-portfolio/
 [instagram]: https://www.instagram.com/knowledge_bot/
 [linkedin]: https://www.linkedin.com/in/vashishth-gajjar-a798b2195/
- -->
+
   # 🏆 Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=grand-27-master)](https://github-profile-trophy.vercel.app/?username=grand-27-master)
  
