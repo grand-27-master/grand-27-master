@@ -3,9 +3,9 @@
 # Hi there, I'm Vashishth Gajjar 👋🏻 
 ## I'm a Computer Science and Engineering Student 
 
-- 🌱 I’m currently engaged in <b> Problem Solving </b>
-- 👯 I’m looking to collaborate with other **Developers** 
-- 🥅 2022 Goals: Strengthen **Problem solving**
+- 🌱 I’m currently interning as a C# developer at <b> Einfochips </b>
+- 👯 I’m looking to offer my freelance design services to clients
+- 🥅 2023 Goals: Strengthen **Problem solving** and expand my instagram community **@knowledge_bot**
 - ⚡ Fun fact: I love to **Work-out and play Chess!**
 ---
 
