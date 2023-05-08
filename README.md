@@ -3,10 +3,10 @@
 # Hi there, I'm Vashishth Gajjar 👋🏻 
 ## I'm a Computer Science and Engineering Student 
 
-- 🌱 I’m currently interning as a C# developer at <b> Einfochips </b>
+- 🌱 I’m currently working on **Content Creation** and building my **Personal Brand**
 - 👯 I’m looking to offer my freelance design services to clients
 - 🥅 2023 Goals: Strengthen **Problem solving** and expand my instagram community **@knowledge_bot**
-- ⚡ Fun fact: I love to **Work-out and play Chess!**
+- ⚡ Fun fact: I love to **Work-out and read books!**
 ---
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
