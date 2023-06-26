@@ -3,9 +3,9 @@
 # Hi there, I'm Vashishth Gajjar 👋🏻 
 ## I'm a Computer Science and Engineering Student 
 
-- 🌱 I’m currently working on **Content Creation** and building my **Personal Brand**
-- 👯 I’m looking to offer my freelance design services to clients
-- 🥅 2023 Goals: Strengthen **Problem solving** and expand my instagram community **@knowledge_bot**
+- 🌱 I’m a Computer Science graduate at **UTA** and I have a keen interest in **Software Development**
+- 👯 I’m looking to offer my **freelance design services** to clients and **1:1 mentoring**
+- 🥅 2023 Goals: Strengthen academics and expand my Network
 - ⚡ Fun fact: I love to **Work-out and read books!**
 ---
 
