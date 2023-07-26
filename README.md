@@ -98,7 +98,7 @@
   
   
 # Device 
-<img src="https://img.shields.io/badge/Lenovo-Ideapad 20GB-E2231A?style=for-the-badge&logo=lenovo&logoColor=white"></img> <br><br>
+<img src="https://img.shields.io/badge/MacBook Pro M2-E2231A?style=for-the-badge&logo=apple&logoColor=white"></img> <br><br>
   
 <div align="center"> 
 <img src="https://media.giphy.com/media/QEIC6GZIEGStO/giphy.gif">
