@@ -4,8 +4,7 @@
 ## I'm a Computer Science and Engineering Student 
 
 - 🌱 I’m a Computer Science graduate at **UTA** and I have a keen interest in **Software Development**
-- 👯 I’m looking to offer my **freelance design services** to clients and **1:1 mentoring**
-- 🥅 2024 Goals: Strengthen academics and expand my Network
+- 🥅 2025 Goals: Craft AI Agents and build GenAI apps
 - ⚡ Fun fact: I love to **Work-out and read books!**
 ---
 
