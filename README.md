@@ -3,9 +3,9 @@
 # Hi there, I'm Vashishth Gajjar 👋🏻 
 ## I'm a Computer Science and Engineering Student 
 
-- 🌱 I’m a Computer Science graduate at **UTA** and I have a keen interest in **Software Development**
+- 🌱 I’m aResearch **Software Engineer** and **Former GTA** at **UTA** and I have a keen interest in **System Design and Problem Solving**
 - 🥅 2025 Goals: Craft AI Agents and build GenAI apps
-- ⚡ Fun fact: I love to **Work-out and read books!**
+- ⚡ Fun fact: I love to **workout and help people!**
 ---
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
