@@ -78,7 +78,7 @@
 
 ---
 
- [website]: https://grand-27-master.github.io/Hexagonal-portfolio/
+[website]: https://grand-27-master.github.io/Hexagonal-portfolio/
 [instagram]: https://www.instagram.com/knowledge_bot/
 [linkedin]: https://www.linkedin.com/in/vashishth-gajjar-a798b2195/
 
