@@ -62,17 +62,6 @@
 
 ---
 
-  # 🏆 Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=grand-27-master)](https://github-profile-trophy.vercel.app/?username=grand-27-master)
- 
-  
-  # Productivity Stats📈:
-<table>
-  <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=grand-27-master&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
-   </tr> 
-</table>
-
   
   
 # Device 
