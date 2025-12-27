@@ -30,28 +30,6 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 
 <br/>
-
----
-<br/>
-
-
-
-
- 
-
-  
-  
-  <div align="center"> 
-     <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=grand-27-master&show_icons=true&include_all_commits=true&count_private=true&theme=gotham&line_height=40" />
-    </a>
-
-</div
-  
-  <br><br>
-  <br/>
- 
-
   
 
 ---
