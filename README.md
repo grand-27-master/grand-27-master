@@ -37,12 +37,6 @@
 
 
 
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=grand-27-master&theme=soft-green&hide_border=true)](https://git.io/streak-stats)
-  <h2 align="center"> Github Statistics 📈 </h2>
-  </div>
-  
  
 
   
